@@ -6,9 +6,6 @@ Aplikasi Android sederhana untuk membantu mengelola dan memantau alur keuangan p
 
 **Money Flow App** adalah project aplikasi Android yang dibangun menggunakan **Kotlin** dan **Jetpack Compose**. Project ini menggunakan Android Gradle Plugin dengan konfigurasi modern berbasis Kotlin DSL.
 
-Repository:
-- GitHub: https://github.com/T4KUM1-99/money-flow-app
-
 ## ✨ Teknologi
 
 Project ini menggunakan:
